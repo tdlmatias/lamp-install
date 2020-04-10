@@ -1,6 +1,6 @@
 # lamp-install
 
-# lamp-install - this is adapted from repo - https://github.com/kbond/lamp-setup
+>> lamp-install - this is adapted from repo - https://github.com/kbond/lamp-setup
 
 # Usage 
 
